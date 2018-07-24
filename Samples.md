@@ -14,14 +14,18 @@
 ## Quoting sample
 
 > Line1
+
 > Line2
 
 ## Link samples
 
 This is an [inline link](https://www.google.it)
 
+This is an [inline link](https://www.google.it "Google Search") with optional title.
+
 This is a [separate link][link1]
-This is a [separate link][link2] with optional tile.
+
+This is a [separate link][link2] with optional title.
 
 [link1]: https://www.google.it/
 [link2]: https://www.google.it/ (Google Search)
