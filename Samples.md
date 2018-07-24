@@ -37,4 +37,16 @@ This is a [separate link][link2] with optional title.
 [link1]: https://www.google.it/
 [link2]: https://www.google.it/ (Google Search)
 
+## Text emphasis
 
+Enclosed with *single asterisks*
+
+Enclosed with _single underscores_
+
+Enclosed with **double asterisks**
+
+Enclosed with __double underscores__
+
+Enclosed with ~tilde~
+
+Enclosed with ~~double tilde~~
