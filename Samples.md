@@ -1,3 +1,9 @@
+---
+layout: page
+title: Samples
+permalink: /Samples/
+---
+
 # Markdown samples
 
 ## Table sample
